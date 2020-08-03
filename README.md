@@ -1,4 +1,4 @@
-ppppppppppppppppppppp### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on ... Computer vision and self driving car.
 - 🌱 I’m currently learning ... openCV, TenserFlow, Computer Graphics.
