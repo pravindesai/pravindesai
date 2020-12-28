@@ -6,7 +6,6 @@
 - 💬 Ask me about ... Anything , i'll be happy to help you.
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/pravindesai__/ "pravindesai__") <br />
     or Mail me at : pravindesai100@gmail.com <br />
-    or Msg on Telegram : @Pravindesai
 
 - ⚡ Fun fact: ... i love Philosophy.
 
