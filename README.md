@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Computer vision and self driving car.
-- 🌱 I’m currently learning ... Computer Graphics, openCV, TenserFlow.
+- 🌱 I’m currently learning ... Computer Graphics, openCV, & Android.
 - 👯 I’m looking to collaborate on ... something interesting.
 - 💬 Ask me about ... Anything , i'll be happy to help you.
 - 🤩 Eats #enthusiasm for breakfast
