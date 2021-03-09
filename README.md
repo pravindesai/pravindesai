@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/pravindesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/pravindesai" height="30" width="40" /></a>
+<a href="https://dev.to/pravindesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/pravindesai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/desaipravin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/desaipravin/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8609473/pravin-desai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8609473/pravin-desai" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pravindesai__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pravindesai__" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8609473/pravin-desai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8609473/pravin-desai" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pravindesai__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pravindesai__" height="30" width="40" /></a>
 <a href="https://medium.com/@pravindesai100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pravindesai100" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/pravindesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/pravindesai" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@pravindesai100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@pravindesai100" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pravindesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/pravindesai" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pravindesai100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@pravindesai100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
