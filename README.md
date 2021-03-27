@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **something interesting**
 
-- 👨‍💻 All of my projects are available **[HERE](https://github.com/pravindesai)**
+- 👨‍💻 All of my projects are available **[HERE](https://github.com/pravindesai?tab=repositories)**
 
 - 💬 Ask me about **anything**
 
