@@ -21,7 +21,7 @@
 
 📫 How to reach me **pravindesai100@gmail.com** or **contact@pravindesai.xyz**
 
-Have a look at my portfolio **pravindesai.xyz**
+Have a look at my portfolio **[pravindesai.xyz](https://pravindesai.xyz/) **
     
 ⚡ Fun fact **I love Philosophy**
 
