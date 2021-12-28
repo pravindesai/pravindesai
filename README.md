@@ -19,7 +19,7 @@
 
 💬 Ask me about **anything**
 
-📫 How to reach me **pravindesai100@gmail.com**
+📫 How to reach me **pravindesai100@gmail.com** or **contact@pravindesai.xyz**
 
 ⚡ Fun fact **I love Philosophy**
 
